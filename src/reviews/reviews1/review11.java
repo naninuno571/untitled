@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class review11 {
     public static void main(String[] args) {
         int num = 1000;
