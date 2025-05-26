@@ -9,7 +9,7 @@ public class review28_1 {
         String subject = br.readLine();
         System.out.print("本文を入力>");
         String body = br.readLine();
-         reveiw28_2 e = new reveiw28_2();
+         review28_2 e = new review28_2();
         if(subject.equals("")){
             e.send(to, body);
         } else {
