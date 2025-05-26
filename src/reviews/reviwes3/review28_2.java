@@ -1,6 +1,6 @@
 package reviews.reviwes3;
 
-public class reveiw28_2 {
+public class review28_2 {
     public void send(String to, String body) {
         System.out.println(to+"に以下のメールを送信しました");
         System.out.println("件名:【件名なし】");
